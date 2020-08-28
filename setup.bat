@@ -33,7 +33,7 @@ SETLOCAL
 
 cd %~dp0
 
-SET MIRROR=http://cygwin.mirrors.pair.com/
+SET MIRROR=https://mirrors.rit.edu/cygwin/
 SET DIR=%CD%
 SET ROOT=C:\cygwin64
 
